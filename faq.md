@@ -15,7 +15,7 @@ Antwort
 <details>
 <summary><b> Glaubst du ernsthaft, <em> diese </em> Webseite hilft dir dabei, der nächste *füge beliebigen Gründer/Promi ein* zu werden?</b></summary>
 <p style="text-align: justify">
-Nein, nicht wirklich. Aber ich hatte diese Idee schon etwas länger und wollte nun endlich mal den Gedanken und Worten Taten folgen lassen. Vielleicht ist diese Ecke der unkommerzialisierten Unaufgeregtheit ja das, was die Menschen aktuell im Internet suchen.
+Nein, nicht wirklich. Aber ich hatte diese Idee schon etwas länger und wollte nun endlich mal den Gedanken und Worten Taten folgen lassen. Vielleicht ist diese Ecke der unkommerzialisierten Unaufgeregtheit ja das, was die Menschen aktuell im Internet suchen. Und wenn nicht, habe ich wenigstens eine Menge über Jekyll, html, css und Domains gelernt.
 </p>
 </details>
 
