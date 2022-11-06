@@ -33,7 +33,7 @@ Wer kennt es nicht aus der Schule, das gute, alte Geodreieck. Praktisch, einfach
 </details>
 
 <details>
-<summary><b> Wie läuft diese Webseite?</b></summary>
+<summary><b> Wie hast du diese Webseite erstellt? Worüber läuft sie? </b></summary>
 <p style="text-align: justify">
 Ich plane, darüber auch mal ein HowTo zu machen, aber in der Kurzfassung: 
 <ul>
@@ -47,6 +47,6 @@ Ich plane, darüber auch mal ein HowTo zu machen, aber in der Kurzfassung:
 <details>
 <summary><b> Wer ist Leo?</b></summary>
 <p>
-Ich (he/him) bin Mitte 20, aufgewachsen in der Nähe von München, ein hoffnungsloser Idealist mit großem Mitteilungsbedürfnis, stetem Glauben an das Medium "Text" entgegen aller aktuellen Strömungen, viel Neu- und Wissbegierde, und einem technisch-betriebswirtschaftlichen Hintergrund, den ich mit diesem Blog weiter ausbauen möchte. Ich bin außerdem großer Fan von klarer Kommunikation, hermeneutischem Wohlwollen, Italien, Burritos, <a href="https://shop.abbrunzatissima.de/tickets">Roy Bianco & Die Abbrunzati Boys</a> und nahezu allen Ballsportarten. Du findest mich im restlichen Internet auf <a href="https://twitter.com/leodreieck/">Twitter</a>, <a href="https://open.spotify.com/user/gigando?si=f1b8b88e713d4bbd">Spotify</a>, <a href="https://www.goodreads.com/user/show/149084758-leo">Goodreads</a>, <a href="https://www.chess.com/member/gigando99">Chess.com</a>, <a href="https://www.linkedin.com/in/leopold-demleitner/">LinkedIn</a> und <a href="https://github.com/leodreieck">GitHub</a> (wo übrigens auch der Code für diese Seite liegt).
+Ich (he/him) bin Mitte 20, aufgewachsen in der Nähe von München, ein hoffnungsloser Idealist mit großem Mitteilungsbedürfnis, unerschütterlichem Glauben an das Medium "Text" (entgegen aller aktuellen Strömungen), viel Neu- und Wissbegierde, und einem technisch-betriebswirtschaftlichen Hintergrund, den ich mit diesem Blog weiter ausbauen möchte. Ich bin außerdem großer Fan von klarer Kommunikation, hermeneutischem Wohlwollen, Italien, Burritos, <a href="https://shop.abbrunzatissima.de/tickets">Roy Bianco & Die Abbrunzati Boys</a> und nahezu allen Ballsportarten. Du findest mich im restlichen Internet auf <a href="https://twitter.com/leodreieck/">Twitter</a>, <a href="https://open.spotify.com/user/gigando?si=f1b8b88e713d4bbd">Spotify</a>, <a href="https://www.goodreads.com/user/show/149084758-leo">Goodreads</a>, <a href="https://www.chess.com/member/gigando99">Chess.com</a>, <a href="https://www.linkedin.com/in/leopold-demleitner/">LinkedIn</a> und <a href="https://github.com/leodreieck">GitHub</a> (wo übrigens auch der Code für diese Seite liegt).
 </p>
 </details>
