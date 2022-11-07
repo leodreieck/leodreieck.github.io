@@ -10,8 +10,8 @@ Du hast einen Fehler gefunden, einen tollen Tipp für mich oder möchtest einfac
         Leopold Demleitner<br>
         Bahnhofstr. 47<br>
         82194 Gröbenzell
-- Telefon/Signal: +49 151 65108601
-- [E-Mail](mailto:leodreieck.de@gmail.com")
+- Telefon/Signal: {{site.phone}}
+- [E-Mail](mailto:{{site.email}}")
 - [Twitter](https://twitter.com/leodreieck/)
 - [LinkedIn](https://www.linkedin.com/in/leopold-demleitner/)
 
