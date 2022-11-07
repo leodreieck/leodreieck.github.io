@@ -11,16 +11,19 @@ Weihnachten steht schon bald vor der Tür, und davor kommt die besinnliche Adven
 
 ### Kleinigkeiten
 - Teebeutel
+- Trinkscholade
+- Tassenkuchen
 - Nüsse
 - Mandarine (lieber früh im Kalender verwenden, damit sie nicht schlecht wird)
 - Süßigkeiten
 - besonderes Gewürz
-- in der Drogerie inspirieren lassen (Duschgel, Seife…)
+- in der Drogerie oder den verdächtigen Läden (Lush, Rituals, L'Occitane, ...) inspirieren lassen (Duschgel, Seife…)
 - Fotos (z.B. als Polaroid ausgedruckt)
-- nette/liebevolle Notiz, Spruch, Zitat oder Ähnliches
 - Rubbellos in der Lotterie
 - Reclam-Buch
 - Wachstuch
+- Socken
+- Hobbybezogenes (Proteinriegel, Zubehör, ...)
 
 ### Gutscheine
 - Glühwein auf dem Christkindlmarkt
@@ -38,10 +41,12 @@ Diese Inhalte kann man z.B. super als QR-Code verpacken (mithilfe von QR-Code-Ge
 - (selbst kuratierte) Spotify-Playlist
 - lustiges/inspirierendes Video
 - Stadtrundgang (vielleicht gibt es das ja auch in deiner Stadt? In Tübingen hatte z.B. Fridays for Future diesen hier erstellt: [https://fff.abinsall.com](https://fff.abinsall.com/))
+- Rätsel
+- nette/liebevolle Notiz, Spruch, Zitat oder Ähnliches
+- Rezept
 - Link zu einer tollen App, Website oder Ähnlichem (ich habe z.B. letztes Jahr, weil die beschenkte Person schon länger einen Einstieg ins Investieren gesucht hat, einen Link zu "Trade Republic" geteilt samt 5€ Startkapital)
 
 ### Für Pärchen
 - Gutschein für eine sinnliche Massage (mit Massageöl)
 - sexy Unterwäsche (gibt es für sie und für ihn!)
 - ausgewählte Sextoys oder einen Gutschein dafür
-
