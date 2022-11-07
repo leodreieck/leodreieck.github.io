@@ -1,6 +1,7 @@
 ---
 layout: default
 title: FAQ
+permalink: /faq/
 ---
 
 <!--
@@ -11,6 +12,18 @@ Antwort
 </p>
 </details>
 -->
+
+<details>
+<summary><b> Wie hast du diese Webseite erstellt? Worüber läuft sie? </b></summary>
+<p style="text-align: justify">
+Ich plane, darüber auch mal ein HowTo zu machen, aber in der Kurzfassung: 
+<ul>
+<li> Die Erstellung der Seite selbst wird vereinfacht durch den Static-Website-Generator <a href="https://jekyllrb.com/">Jekyll</a></li>
+<li> Gehostet wird sie über <a href="https://pages.github.com/">GitHub Pages</a></li>
+<li> Für Planung und Vorbereitung nutze ich <a href="https://notion.so/">Notion</a></li>
+</ul>
+</p>
+</details>
 
 <details>
 <summary><b> Glaubst du ernsthaft, <em> diese </em> Webseite hilft dir dabei, der nächste *füge beliebigen Gründer/Promi ein* zu werden?</b></summary>
