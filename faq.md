@@ -38,6 +38,16 @@ Nein, nicht wirklich. Aber ich hatte diese Idee schon etwas länger und wollte n
 Ich poste über neue Einträge auf meinem <a href="https://twitter.com/leodreieck/">Twitter</a>-Account. Falls du kein Twitter hast, kannst du mir auch eine <a href="mailto:leodreieck.de@gmail.com">E-Mail</a> droppen und ich benachrichtige dich über einen Verteiler.
 </p>
 </details>
+
+<!--
+<details>
+<summary><b> Was sind "Affiliate Links"? Und wieso Amazno? </b></summary>
+<p style="text-align: justify">
+eig glaube ich nicht an affiliate links weil man nochmal überlegen sollte vor dem kauf. aber wenn ihr schon einkauft, vllt ja wenigstens hier (s. nochmal diana zur löwen)
+</p>
+</details>
+-->
+
 <!--
 <details>
 <summary><b> Wow, coole Sache! Wie kann ich das Projekt unterstützen? </b></summary>
