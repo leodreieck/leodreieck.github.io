@@ -16,14 +16,17 @@ Weihnachten steht schon bald vor der Tür, und davor kommt die besinnliche Adven
 - Nüsse
 - Mandarine (lieber früh im Kalender verwenden, damit sie nicht schlecht wird)
 - Süßigkeiten
+- Zahnpflegekaugummis
 - besonderes Gewürz
-- in der Drogerie oder den verdächtigen Läden (Lush, Rituals, L'Occitane, ...) inspirieren lassen (Duschgel, Seife…)
+- in der Drogerie oder den verdächtigen Läden (Lush, Rituals, L'Occitane, ...) inspirieren lassen (Duschgel, Seife, Badezusatz, …)
 - Fotos (z.B. als Polaroid ausgedruckt)
-- Rubbellos in der Lotterie
+- Rubbel-/Lotterielos
 - Reclam-Buch
 - Wachstuch
+- Kerze
 - Socken
 - Hobbybezogenes (Proteinriegel, Zubehör, ...)
+- Aufnäher oder Sticker
 
 ### Gutscheine
 - Glühwein auf dem Christkindlmarkt
@@ -36,13 +39,13 @@ Weihnachten steht schon bald vor der Tür, und davor kommt die besinnliche Adven
 - Theater-Resttickets
 
 ### Content
-Diese Inhalte kann man z.B. super als QR-Code verpacken (mithilfe von QR-Code-Generatoren wie [https://www.qrcode-generator.de/](https://www.qrcode-generator.de/)):
+Digitale Inhalte kann man z.B. super als QR-Code verpacken (mithilfe von QR-Code-Generatoren wie [https://www.qrcode-generator.de/](https://www.qrcode-generator.de/)):
 - gute Podcastfolge
 - (selbst kuratierte) Spotify-Playlist
 - lustiges/inspirierendes Video
-- Stadtrundgang (vielleicht gibt es das ja auch in deiner Stadt? In Tübingen hatte z.B. Fridays for Future diesen hier erstellt: [https://fff.abinsall.com](https://fff.abinsall.com/))
+- Stadtrundgang (vielleicht gibt es das ja auch in deiner Stadt? In Tübingen gab es z.B. diesen [hier](https://fff.abinsall.com/) von Fridays for Future)
 - Rätsel
-- nette/liebevolle Notiz, Spruch, Zitat oder Ähnliches
+- nette/liebevolle Notiz, Spruch, Gedicht, Zitat oder Ähnliches
 - Rezept
 - Link zu einer tollen App, Website oder Ähnlichem (ich habe z.B. letztes Jahr, weil die beschenkte Person schon länger einen Einstieg ins Investieren gesucht hat, einen Link zu "Trade Republic" geteilt samt 5€ Startkapital)
 
