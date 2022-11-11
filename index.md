@@ -22,6 +22,6 @@ layout: home
 -->
 <div class="blocker-top"> </div>
 <div class="blocker-top"> </div>
-<p style="text-align: center;font-size: 30px"> <b> Grüezi, Servus, Hallo, Willkommen, Buon Giorno, Bon Jour, Moin! </b> </p>
+<p style="text-align: center;font-size: 30px"> <b> Grüezi, Servus, Hallo, Willkommen, Buon Giorno, Buenos Días, Bon Jour, 你好, Moin! </b> </p>
 <p style="text-align: center;"> Schön, dass du da bist! </p>
 <p style="text-align: center;"> Schau dich gerne in aller Ruhe um! </p>
