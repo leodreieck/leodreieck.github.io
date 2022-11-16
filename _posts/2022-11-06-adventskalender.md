@@ -2,7 +2,7 @@
 layout: post
 title:  "Selbstgebastelter Adventskalender"
 date:   2022-11-06 18:30
-tags: geschenkideen
+tags: geschenkideen advent weihnachten winter
 description: Zahlreiche Ideen für Türchen eines selbstgebastelten Adventskalenders. 
 ---
 
@@ -27,6 +27,7 @@ Weihnachten steht schon bald vor der Tür, und davor kommt die besinnliche Adven
 - Socken
 - Hobbybezogenes (Proteinriegel, Zubehör, ...)
 - Aufnäher oder Sticker
+- Hand- oder Sohlenwärmer
 
 ### Gutscheine
 - Glühwein auf dem Christkindlmarkt
