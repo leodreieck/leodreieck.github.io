@@ -2,11 +2,11 @@
 layout: post
 title:  "Erstellen einer Webseite mit Jekyll und GitHub Pages"
 date:   2022-11-16 16:30
-tags: howto jekyll github-pages godaddy frontend html css javascript
+tags: howto jekyll github-pages godaddy
 description: Eine kurze Einführung darin, wie ich diese Webseite erstellt habe. 
 ---
 
-In diesem Eintrag möchte ich meinen technischen Weg zu dieser Webseite beschreiben und allen bei der Orientierung helfen, die selbst auch schon immer mal eine eigene Webseite starten wollten. Direkt vorweg: Ich bin kein Frontend-Profi (Bei Webseiten und Apps unterteilt man in der Regel in ein Frontend (die Benutzeroberfläche) und ein Backend (die Datenbank o.Ä., die im Hintergrund läuft)). Ein wichtige Motivation für diese Website war, dass ich mich *learning by doing* in das Thema einarbeiten wollte und will. Korrekturen und Ergänzungen sind daher wärmstens willkommen. 
+In diesem Eintrag möchte ich beschreiben, wie ich diese Webseite technisch erstellt habe, und allen bei der Orientierung helfen, die selbst auch schon immer mal eine eigene Webseite starten wollten. Direkt vorweg: Ich bin kein Frontend-Profi (Bei Webseiten und Apps unterteilt man in der Regel in ein Frontend (die Benutzeroberfläche) und ein Backend (die Datenbank o.Ä., die im Hintergrund läuft)). Ein wichtige Motivation für diese Website war, dass ich mich *learning by doing* in das Thema einarbeiten wollte und will. Korrekturen und Ergänzungen sind daher wärmstens willkommen. 
     
 
 ## Schritt 1: Technologieauswahl
@@ -23,7 +23,7 @@ In dieser Kategorie, in die ich mich selbst einordnen würde, verwendet man Webs
 
 ### Variante 3: “Gut & Günstig: Baukasten”
 
-Günstig bezieht sich hierbei nicht unbedingt nur auf die monetären Kosten, sondern vor allem auf die Zeit. Allrounder wie [Wordpress](https://wordpress.com/), [Wix](https://de.wix.com/), [Squarespace](https://de.squarespace.com/), [Jimdo](https://www.jimdo.com/de/) oder [IONOS](https://www.ionos.de/), aber auch traditionelle Hosting-Anbieter wie [Strato](https://www.strato.de/) oder [GoDaddy](https://www.godaddy.com/) (siehe auch [Schritt 4](#schritt-4-domain-und-hosting)) bieten Webseite-Baukästen an und sind damit ein guter No Code-Kompromiss für alle, die zügig und/oder ohne viele Vorkenntnisse eine eigene Webseite bauen und hosten lassen wollen. In der Regel kann man aus verschiedenen Themes wählen und diese leicht anpassen. Wer keine White Label-Domain benötigt, kann oft kostenfrei eine \<frei wählbar\>.\<anbieter\>.com verwenden. 
+Günstig bezieht sich hierbei nicht unbedingt nur auf die monetären Kosten, sondern vor allem auf die Zeit. Allrounder wie [Wordpress](https://wordpress.com/), [Wix](https://de.wix.com/), [Squarespace](https://de.squarespace.com/), [Jimdo](https://www.jimdo.com/de/) oder [IONOS](https://www.ionos.de/), aber auch traditionelle Hosting-Anbieter wie [Strato](https://www.strato.de/) oder [GoDaddy](https://www.godaddy.com/) (siehe auch [Schritt 4](#schritt-4-hosting-und-domain)) bieten Webseite-Baukästen an und sind damit ein guter No Code-Kompromiss für alle, die zügig und/oder ohne viele Vorkenntnisse eine eigene Webseite bauen und hosten lassen wollen. In der Regel kann man aus verschiedenen Themes wählen und diese leicht anpassen. Wer keine White Label-Domain benötigt, kann oft kostenfrei eine \<frei wählbar\>.\<anbieter\>.com verwenden. 
 
 ### Variante 4: “Team Genügsam”
 
@@ -46,7 +46,8 @@ Wenn ich alles richtig verstanden habe, benötigt man bereits sehr schnell ein I
 Auch wenn es inzwischen manchmal so wirkt, zwingt einen dagegen niemand dazu, ein Cookie-Banner oder eine Aufforderung, Push-Benachrichtigungen zu aktivieren, einzurichten (sofern man keine Cookies platziert). Cookies sind kleine Informationsbrösel, die per se überhaupt nicht schlecht sein müssen und dem Server zB dabei helfen können, die Webseite an das Gerät (Handy oder Computer) anzupassen. Für solche funktionalen Cookies benötigt man meines Wissens nach keine Einwilligung der Besucher:innen. Hilfreiche Cookies, für die man aber bereits ein Banner benötigt, könnten zum Beispiel den Warenkorb auf einer Seite speichern oder die Stelle, auf der man zuletzt aufgehört hatte zu lesen. Analytics-Cookies sind wahrscheinlich der Grund für den allgemeinen Hass auf Cookies und können Google und Konsorten helfen, plattformübergreifend ein Klickprofil zu erstellen. Sie sind auch der Grund, wieso man die ganze Zeit Werbung von Webseiten bekommt, die man mal besucht hat. Private Browserfenster löschen übrigens neben dem Verlauf die Cookies, nachdem man sie geschlossen hat. 
 
 <details>
-<summary> Fun Fact/Exkurs/gefährliches Halbwissen: Gutgläubiger Erklärungsansatz, wieso wir Werbung für Dinge sehen, über die wir nur offline gesprochen haben</summary>
+<summary> <i> Fun Fact/Exkurs/gefährliches Halbwissen: Gutgläubiger Erklärungsansatz, wieso wir Werbung für Dinge sehen, über die wir nur offline gesprochen haben </i></summary>
+<p></p>
 <p>
 Ihr kennt diesen besonders gruseligen Moment sicher auch: am einen Tag spricht man noch mit guten Freund:innen über einen Urlaub auf Bali (ohne ihn im Internet zu suchen!) und am nächsten Tag sieht man auf einmal Werbung für Flüge nach Bali. Das könnte ebenfalls mit den Cookies zusammenhängen. Anhand der Krümel, die wir mit unseren Klicks im Internet hinterlassen, werden “Profile” von uns angelegt (z.B.: Student, Single, keine Kinder, sportlich, …). Wenn jetzt eine Person mit einem sehr ähnlichen Profil (z.B.: gute Freund:innen) nach einem Urlaub in Bali suchen (weil sie zuvor mit ihrem guten Freund Leo darüber geredet haben und sich für einen Moment aus dem kühlen November wegträumen möchten), kann es für den Algorithmus Sinn ergeben, deren Klicks auch anderen ähnlichen Profilen (z.B.: mir!) vorzuschlagen. Ergänzt werden könnte das Ganze noch vom [Baader-Meinhoff-Phänomen](https://en.wikipedia.org/wiki/Frequency_illusion). Sehr gefährliches Halbwissen, aber ich finde, dass das gemäß [Ockhams Rasiermesser](https://de.wikipedia.org/wiki/Ockhams_Rasiermesser) eine ziemlich plausible Erklärung für das Phänomen ist. Exkurs Ende.
 </p>
@@ -55,8 +56,8 @@ Ihr kennt diesen besonders gruseligen Moment sicher auch: am einen Tag spricht m
 
 Da ich aktiv gar keine Cookies sammle und nur im Hintergrund die funktionalen Cookies zur korrekten Darstellung verwendet werden, kommt diese Seite also ohne das elendige Banner aus. 
 
-<a name="schritt-4-domain-und-hosting">
-## Schritt 4: Domain und Hosting
+<a name="schritt-4-hosting-und-domain">
+## Schritt 4: Hosting und Domain
 
 Damit eine Website im Internet erreichbar ist, muss sie auf einem Server gehostet werden, der, vereinfacht gesagt, den Anfragenden die Webseite zusendet und, falls vorhanden (z.B. in einem Online-Shop), die Datenbank verwaltet. 
 
