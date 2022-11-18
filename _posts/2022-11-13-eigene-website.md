@@ -33,9 +33,21 @@ Im professionellen Umfeld finden all diese Varianten in der Regel keinen Einsatz
 
 ## Schritt 2: Jekyll und alles drum herum
 
-Für *leodreieck.de* habe ich mich für Variante 2 aus Schritt 1 und innerhalb davon für Jekyll entschieden. Für den Einstieg bin ich einfach dem offiziellen [Jekyll-Guide](https://jekyllrb.com/docs/step-by-step/10-deployment/) gefolgt. Darin wird das *Minima*-Theme anwendet, eine sehr reduzierte Formatvorlage. Dies war perfekt für mich, da ich so leicht Anpassungen durchführen konnte. Wer möchte, kann aber auch schon [vorgefertigte](https://jekyllrb.com/docs/themes/#overriding-theme-defaults) Themes verwenden. Meine Navigationsleiste habe ich nicht wie im Guide beschrieben, sondern wie in der [GitHub-Dokumentation](https://github.com/jekyll/minima#customize-navigation-links) vorgeschlagen umgesetzt, da mir dies weniger umständlich vorkam. Zuletzt folgte ich für die Verwendung von Tags und der Tag-Wolke im Feed [diesem](http://longqian.me/2017/02/09/github-jekyll-tag/) Blog-Eintrag. Als zusätzliche Orientierung half mir außerdem [dieser](https://www.aleksandrhovhannisyan.com/blog/getting-started-with-jekyll-and-github-pages/) Blog-Eintrag, der sehr ausführlich ist und einige beruhigende Screenshots enthält, in denen der Fortschritt festgehalten wird..
+Für *leodreieck.de* habe ich mich für Variante 2 aus Schritt 1 und innerhalb davon für Jekyll entschieden. Für den Einstieg bin ich einfach dem offiziellen [Jekyll-Guide](https://jekyllrb.com/docs/step-by-step/01-setup/) gefolgt (ja, man muss Ruby runterladen, wenn man es nicht schon hat). Darin wird das *Minima*-Theme anwendet, eine sehr reduzierte Formatvorlage. Dies war perfekt für mich, da ich so leicht Anpassungen durchführen konnte. Wer möchte, kann aber auch schon [vorgefertigte](https://jekyllrb.com/docs/themes/#overriding-theme-defaults) Themes verwenden. Meine Navigationsleiste habe ich nicht wie im Guide beschrieben, sondern wie in der [GitHub-Dokumentation](https://github.com/jekyll/minima#customize-navigation-links) vorgeschlagen umgesetzt, da mir dies weniger umständlich vorkam. Zuletzt folgte ich für die Verwendung von Tags und der Tag-Wolke im Feed [diesem](http://longqian.me/2017/02/09/github-jekyll-tag/) Blog-Eintrag. Als zusätzliche Orientierung half mir außerdem [dieser](https://www.aleksandrhovhannisyan.com/blog/getting-started-with-jekyll-and-github-pages/) Blog-Eintrag, der sehr ausführlich ist und einige beruhigende Screenshots enthält, in denen der Fortschritt festgehalten wird..
 
 Als Editor verwende ich [Visual Studio Code](https://code.visualstudio.com/), den aktuell wohl beliebtesten Editor. Für die Code-Versionierung in GitHub benötigt man außerdem [Git](https://git-scm.com/download/win). Für die Vorbereitung und Planung nutze ich außerdem das wunderbare [Notion](https://www.notion.so/product?fredir=1), mit dem ich quasi mein ganzes Leben plane und dokumentiere.
+
+Wie im Guide beschrieben, kann man nun bereits eine Vorschau der Website sehen, indem man im Bash-Terminal (in Visual Studio Code oder Git Bash) eingibt:
+
+```bash
+# Kommentare beginnen mit "#"
+
+# nach Änderungen in config.yml oder nach Erstellen eines neuen Eintrags ausführen
+bundle exec jekyll build
+
+# lokalen Mini-Server starten, um die Website im Browser unter http://localhost:4000 zu erreichen
+bundle exec jekyll serve
+```
 
 ## Schritt 3: Rechtliches
 
