@@ -28,6 +28,7 @@ Weihnachten steht schon bald vor der Tür, und davor kommt die besinnliche Adven
 - Hobbybezogenes (Proteinriegel, Zubehör, ...)
 - Aufnäher oder Sticker
 - Hand- oder Sohlenwärmer
+- Einwegkamera
 
 ### Gutscheine
 - Glühwein auf dem Christkindlmarkt
