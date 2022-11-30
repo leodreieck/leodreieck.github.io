@@ -26,7 +26,7 @@ Im Gespräch mit einer Freundin habe ich neulich gemerkt, dass einerseits einige
 | strg + “-” | Text kleiner |  |
 | Windows + L | PC sperren | “lock” |
 | Windows + D | alle Fenster minimieren und den Desktop anzeigen |  |
-| Windows + [Zahl] | gehe zu/öffne App Nummer [zahl] in der Taskleiste |  |
+| Windows + [Zahl] | gehe zu/öffne App Nummer [Zahl] in der Taskleiste |  |
 | Windows + ⬆️/⬇️/⬅️/➡️ | Bildschirm teilen, Fenstergröße verändern | am besten einfach mal rumspielen, u.a.: Bildschirm vertikal oder horizontal teilen oder kleineres Fenster auf Bildschirmgröße maximieren. Tasten z.T. 2x drücken. |
 
 ## Explorer
@@ -37,9 +37,9 @@ Im Gespräch mit einer Freundin habe ich neulich gemerkt, dass einerseits einige
 | f2 | ausgewählte Datei umbenennen |  |
 | Enter | in ausgewählten Ordner hinein |  |
 | alt + ⬆️ | 1 Ordner nach oben |  |
-| strg +⬆️/⬇️ | mehrere Dateien über-/untereinander auswählen | strg gedrückt halten |
+| strg + ⬆️/⬇️ | mehrere Dateien über-/untereinander auswählen | strg gedrückt halten |
 | strg + Mausklick | mehrere Dateien auswählen | strg gedrückt halten |
-| strg + shift + Mausklick | mehrere Dateien über-/untereinander auswählen | strg + shift gedrückt halten und mit der Maus die letzte auszuwählende Datei anklicken |
+| shift + Mausklick | mehrere Dateien über-/untereinander auswählen | shift gedrückt halten und mit der Maus die letzte auszuwählende Datei anklicken |
 | alt + ⬅️ | zurück | geht auch im Browser |
 | alt + ➡️ | vorwärts | geht auch im Browser |
 
@@ -49,8 +49,8 @@ Im Gespräch mit einer Freundin habe ich neulich gemerkt, dass einerseits einige
 | --- | --- | --- |
 | strg + T | neuer Tab |  |
 | strg + R | Seite neu laden | geht auch im Explorer |
-| strg + [Zahl] | gehe zu Tab [zahl] |  |
+| strg + [Zahl] | gehe zu Tab [Zahl] |  |
 | strg + tab | 1 Browsertab weiter | strg gedrückt halten und tab bei Bedarf mehrmals drücken |
 | str + shift + tab | 1 Browsertab zurück |  |
 
-Natürlich gibt es noch viel mehr Tastaturkürzel; wie immer hoffe ich aber, dass dieser Beitrag ein guter Startpunkt und Inpiration ist. Eine vollständige Liste von Microsoft selbst gibt es übrigens [hier](https://support.microsoft.com/de-de/windows/tastenkombinationen-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec). Wenn ihr noch andere Befehle nützlich findet, freue ich mich wie immer über Feedback über die gängigen [Kanäle](http://leodreieck.de/kontakt/). 
+Natürlich gibt es noch viel mehr Tastaturkürzel; wie immer hoffe ich aber, dass dieser Beitrag ein guter Startpunkt und Inpiration ist. Eine vollständige Liste von Microsoft selbst gibt es übrigens [hier](https://support.microsoft.com/de-de/windows/tastenkombinationen-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec). Wenn ihr noch andere Befehle nützlich findet, freue ich mich wie immer über Feedback über die gängigen [Kanäle](/kontakt/). 
