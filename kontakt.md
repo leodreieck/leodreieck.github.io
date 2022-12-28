@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kontakt
-permalink: /kontakt/
+permalink: /kontakt
 ---
 
 Du hast einen Fehler gefunden, einen tollen Tipp für mich oder möchtest einfach mit mir schreiben? Cool, dass du dich mit mir in Kontakt setzen möchtest! Such dir einfach den Weg aus, der dir am liebsten ist:
@@ -11,7 +11,7 @@ Du hast einen Fehler gefunden, einen tollen Tipp für mich oder möchtest einfac
         Bahnhofstr. 47<br>
         82194 Gröbenzell
 - Telefon/Signal: {{site.phone}}
-- [E-Mail](mailto:{{site.email}}")
+- [E-Mail](mailto:{{site.email}})
 - [Twitter](https://twitter.com/leodreieck/)
 - [LinkedIn](https://www.linkedin.com/in/leopold-demleitner/)
 

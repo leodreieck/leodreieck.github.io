@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Über
-permalink: /about/
+permalink: /ueber
 ---
 
 
 <img  width="150" src="/assets/magazino.jpg" alt="Foto" style="margin:10px 0px 10px 50px" align="right"> <!--align="right" margin-left="150px"-->
 <p style="text-align: justify">
-Hi, schön, dass du hier bist! Ich bin Leo und möchte mit <i>leodreieck.de</i> für eine weitere schöne, liebevolle und hoffentlich auch etwas hilfreiche Ecke in den Weiten des WWWs sorgen. Auf dieser Seite stelle ich kurz das Konzept dieser Seite und mich selbst vor. Falls du darüber hinaus noch neugierig bist, kannst du entweder in die <a href="/faq/">FAQs</a> schauen oder mir einfach direkt <a href="/kontakt/">schreiben</a>.</p>
+Hi, schön, dass du hier bist! Ich bin Leo und möchte mit <i>leodreieck.de</i> für eine weitere schöne, liebevolle und hoffentlich auch etwas hilfreiche Ecke in den Weiten des WWWs sorgen. Auf dieser Seite stelle ich kurz das Konzept dieser Seite und mich selbst vor. Falls du darüber hinaus noch neugierig bist, kannst du entweder in die <a href="/faq">FAQs</a> schauen oder mir einfach direkt <a href="/kontakt">schreiben</a>.</p>
 
 <!--
 <details>

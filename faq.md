@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FAQ
-permalink: /faq/
+permalink: /faq
 ---
 
 <!--
@@ -16,7 +16,7 @@ Antwort
 <details>
 <summary><b> Wie hast du diese Webseite erstellt? Worüber läuft sie? </b></summary>
 <p style="text-align: justify">
-Ich plane, darüber auch mal ein HowTo zu machen, aber in der Kurzfassung: 
+Die Langfassung gibt es <a href="/2022/11/16/eigene-website.html">hier</a>, aber in der Kurzfassung: 
 <ul>
 <li> Die Erstellung der Seite selbst wird vereinfacht durch den Static-Website-Generator <a href="https://jekyllrb.com/">Jekyll</a></li>
 <li> Gehostet wird sie über <a href="https://pages.github.com/">GitHub Pages</a></li>
@@ -35,7 +35,7 @@ Nein, nicht wirklich. Aber ich hatte diese Idee schon etwas länger und wollte n
 <details>
 <summary><b> Wie kann ich Updates bekommen, sobald etwas auf der Seite passiert?</b></summary>
 <p style="text-align: justify">
-Ich poste über neue Einträge auf meinem <a href="https://twitter.com/leodreieck/">Twitter</a>-Account. Falls du kein Twitter hast, kannst du mir auch eine <a href="mailto:leodreieck.de@gmail.com">E-Mail</a> droppen und ich benachrichtige dich über einen Verteiler.
+Ich poste über neue Einträge auf meinem <a href="https://twitter.com/leodreieck/">Twitter</a>-Account. Falls du kein Twitter hast, kannst du mir auch eine <a href="mailto:{{site.email}}">E-Mail</a> droppen und ich benachrichtige dich über einen Verteiler.
 </p>
 </details>
 
