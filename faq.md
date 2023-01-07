@@ -26,7 +26,7 @@ Die Langfassung gibt es <a href="/2022/11/16/eigene-website.html">hier</a>, aber
 </details>
 
 <details>
-<summary><b> Glaubst du ernsthaft, <em> diese </em> Webseite hilft dir dabei, der nächste *füge beliebigen Gründer/Promi ein* zu werden?</b></summary>
+<summary><b> Glaubst du ernsthaft, <em> diese </em> Webseite hilft dir dabei, der nächste *<em>füge beliebigen Gründer/Promi ein</em>* zu werden?</b></summary>
 <p style="text-align: justify">
 Nein, nicht wirklich. Aber ich hatte diese Idee schon etwas länger und wollte nun endlich mal den Gedanken und Worten Taten folgen lassen. Vielleicht ist diese Ecke der unkommerzialisierten Unaufgeregtheit ja das, was die Menschen aktuell im Internet suchen. Und wenn nicht, habe ich wenigstens eine Menge über Jekyll, html, css und Domains gelernt.
 </p>
