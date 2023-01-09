@@ -47,14 +47,13 @@ for path in old_tags_raw:
 
 # make sure to only create pages for new tags as old ones might have personalized description
 new_tag_pages = set(total_tags) - set(old_tags)
-#print(new_tag_pages)
+print(new_tag_pages)
 
 # create pages
-for tag in total_tags:
+for tag in new_tag_pages:
     tag_filename = TAG_DIR + tag.replace(' ', '_') + '.md'
     f = open(tag_filename, 'a')
     write_str = '---\nlayout: tagpage\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag + '\n---\n'
     f.write(write_str)
     f.close()
 print("Tagpages generated for {}, count: {}".format(new_tag_pages, new_tag_pages.__len__()))
-
