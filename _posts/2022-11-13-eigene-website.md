@@ -2,7 +2,7 @@
 layout: post
 title:  "Erstellen einer Webseite mit Jekyll und GitHub Pages"
 date:   2022-11-16 16:30
-tags: howto jekyll github-pages godaddy
+tags: howto jekyll github-pages
 description: Eine kurze Einführung darin, wie ich diese Webseite erstellt habe. 
 ---
 
