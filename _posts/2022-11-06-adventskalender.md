@@ -45,7 +45,7 @@ Digitale Inhalte kann man z.B. super als QR-Code verpacken (mithilfe von QR-Code
 - gute Podcastfolge
 - (selbst kuratierte) Spotify-Playlist
 - lustiges/inspirierendes Video
-- Stadtrundgang (vielleicht gibt es das ja auch in deiner Stadt? In Tübingen gab es z.B. diesen [hier](https://fff.abinsall.com/) von Fridays for Future)
+- Stadtrundgang (vielleicht gibt es das ja auch in deiner Stadt? In Tübingen gab es z.B. [diesen](https://fff.abinsall.com/) von Fridays for Future)
 - Rätsel
 - nette/liebevolle Notiz, Spruch, Gedicht, Zitat oder Ähnliches
 - Rezept

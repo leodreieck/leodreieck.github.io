@@ -25,5 +25,6 @@ layout: home
 
 
 <p style="text-align: center; font-size: 40px"> <b> Hey there, willkommen!</b></p>
-<p style="text-align: center; font-size: 24px"> Schön, dass du da bist! </p>
+<p style="text-align: center; font-size: 24px"> Schön, dass du da bist!</p>
 <p style="text-align: center; font-size: 24px"> Schau dich gerne in aller Ruhe um! </p>
+<p style="text-align: center; font-size: 24px"> <a href="/feed">Hier</a> geht es zu allen Posts.</p>
