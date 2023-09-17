@@ -21,7 +21,7 @@
 title: leodreieck
 email: leodreieck.de@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Eine der schönen Ecken des WWWs! Hier gibt es praktische und nützliche Information, die "clean" und einfach aufbereitet sind. Wie das gute, alte Geodreieck, mit einer gehörigen Prise Leo.
+  Eine der schönen Ecken des WWWs! Praktische und nützliche Informationen, die "clean" und einfach aufbereitet sind. Wie das gute, alte Geodreieck, mit einer gehörigen Prise Leo.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://leodreieck.de" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: leodreieck

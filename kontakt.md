@@ -8,8 +8,8 @@ Du hast einen Fehler gefunden, einen tollen Tipp für mich oder möchtest einfac
 
 - Postkarte: <br>
         Leopold Demleitner<br>
-        Bahnhofstr. 47<br>
-        82194 Gröbenzell
+        Rebenlaube 4<br>
+        45133 Essen
 - Telefon/Signal: {{site.phone}}
 - [E-Mail](mailto:{{site.email}})
 - [Twitter](https://twitter.com/leodreieck/)

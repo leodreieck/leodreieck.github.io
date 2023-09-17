@@ -39,10 +39,10 @@ for filename in filenames:
 
 # get already existing tagpages
 old_tags_raw = glob.glob(TAG_DIR + '*.md')
-#print(old_tags_raw)
+print(old_tags_raw)
 old_tags = list()
 for path in old_tags_raw:
-    old_tags.append(re.findall("tag\\\\(.*?).md", path)[0])
+    old_tags.append(re.findall("tag/(.*?).md", path)[0])
 #print(old_tags)
 
 # make sure to only create pages for new tags as old ones might have personalized description

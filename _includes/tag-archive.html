@@ -3,14 +3,24 @@
 <hr>
 <br>
 
-{% capture temptags %}
+<!--{% capture temptags %}
   {% for tag in site.tags %}
     {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
   {% endfor %}
 {% endcapture %}
-{% assign sortedtemptags = temptags | split:' ' | sort %}<!--{% assign sortedtemptags = temptags | split:' ' | sort| reverse %}--> 
+{% assign sortedtemptags = temptags | split:' ' | sort %} // {% assign sortedtemptags = temptags | split:' ' | sort| reverse %}
 {% for temptag in sortedtemptags %}
   {% assign tagitems = temptag | split: '#' %}
   {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
+  <a href="/tag/{{ tagname }}" class="tag">{{ tagitems }}</a>
+{% endfor %}-->
+
+{% capture temptags %}
+  {% for tag in site.tags %}
+    {{ tag[0] }}
+  {% endfor %}
+{% endcapture %}
+{% assign sortedtemptags = temptags | split:' ' | sort %}
+{% for tagname in sortedtemptags %}
   <a href="/tag/{{ tagname }}" class="tag">{{ tagname }}</a>
 {% endfor %}

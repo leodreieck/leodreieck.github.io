@@ -20,11 +20,11 @@ Während meines Auslandssemesters in Granada habe ich Andalusien kennen-, schät
 
 ### Für Halbtages-Stops
 - Málaga: finde ich nicht so sehenswert. Die Alcazaba kann nicht mit der Alhambra mithalten, das [Picasso-Museum](https://www.google.de/maps/place/Museo+Picasso/) ist toll, aber nicht umwerfend
-- [Ronda](https://www.google.de/maps/place/29400+Ronda,+Provinz+M%C3%A1laga,+Spanien/)
+- [Ronda](https://www.google.de/maps/place/29400+Ronda,+Provinz+M%C3%A1laga,+Spanien/): Bis auf die wirklich beeindruckende Brücke recht unspektakulär
 - [Olvera](https://www.google.de/maps/place/11690+Olvera,+Provinz+C%C3%A1diz,+Spanien/)
 - [Caminito del Rey](https://www.google.de/maps/place/Caminito+del+Rey+-+South+Access/)
-- Córdoba: die [Mezquita](https://www.google.de/maps/place/Mezquita-Catedral+de+C%C3%B3rdoba/) ist beeindruckend, der Rest der Stadt eher unspektakulär
-- [Frigiliana](https://www.google.de/maps/place/29788+Frigiliana,+Provinz+M%C3%A1laga,+Spanien/)
+- Córdoba: die [Mezquita](https://www.google.de/maps/place/Mezquita-Catedral+de+C%C3%B3rdoba/) ist atemberaubend, der Rest der Stadt eher unspektakulär
+- [Frigiliana](https://www.google.de/maps/place/29788+Frigiliana,+Provinz+M%C3%A1laga,+Spanien/): Süßes Dorf für einen kurzen Zwischenstop.
 - Alpujarras (z.B. Soportujar, Bubion, Pampaneira, Capileira, Agria-Quelle, Trevelez): hier war ich selbst nicht, aber soll ein ganz schöner Tagesausflug aus Granada sein
 - Jaén ist kein Must-See
 - Huelva und Cadiz habe ich selbst nicht gesehen, ich habe aber auch nichts gehört, weswegen ich unbedingt hin müsste
