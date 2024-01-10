@@ -9,14 +9,14 @@ description: Eine Auflistung und kurze Beschreibung meiner Lieblingspodcasts (ak
 Diese (sehr vergängliche) Liste (Stand: 17.01.2023) ist für alle, die neu in das Thema Podcasts starten wollen, nach Inspiration für "neue" Podcasts suchen, oder schon immer mal wissen wollten, woher all die Informationen, die ich "in einem Podcast gehört habe", wirklich kommen. Dies sind alles keine Geheimtipps, aber vielleicht ist ja etwas spannendes dabei. Ich habe versucht, jeden Podcast zu Kategorisieren nach Thema, wie wichtig er mir war/ist, und wo er zu hören ist.
 
 <details>
-    <summary><a href="https://www.gemischteshack.de/products">Gemischtes Hack</a></summary>
+    <summary>Gemischtes Hack</summary>
     <ul>
         <li><i>Laberpodcast (allgemein) // 2020 & 2021: 100% der Folgen (incl. alter Folgen), heute: &lt;10% // nur bei <a href="https://open.spotify.com/show/7BTOsF2boKmlYr76BelijW?si=909db187c768455b">Spotify</a></i></li>
         <li>Neben den Pionieren von "Fest & Flauschig" (Jan Böhmermann und Olli Schulz - hat mich irgendwie nie gecatched) so etwas wie der VW Golf unter den Podcasts in Deutschland. Felix und Tommi sind Podcastikonen und einer der meistgehörten Podcasts Deutschlands und der Welt. Wer von vorne anfängt, kann neben vielen lustigen Geschichten und immer wieder schlauen Gedanken auch den steilen Karriereaufschwung der beiden miterleben. Ich war lange Zeit Team Tommi, am Ende meiner aktiven Hörerzeit eher Team Felix. Die beiden haben mir auch vor Augen geführt, dass immer noch viele Menschen ein Interesse daran haben, 1x pro Woche das Weltgeschehen eingeordnet zu bekommen. Was die Kirche nicht mehr/nur unzureichend liefert, machen inzwischen eben Podcaster:innen.</li>
     </ul>
 </details>
 <details>
-    <summary><a href="https://www.zeit.de/serie/alles-gesagt">Alles gesagt?</a></summary>
+    <summary>Alles gesagt?</summary>
     <ul>
         <li><i>Interviewpodcast (allgemein) // seit 2020: 70% der Folgen (incl. alter Folgen) // überall, wo es Podcasts gibt</i></li>
         <li>Christoph und Jochen sind beide wichtige Redakteure bei der Zeit (Zeit-Magazin bzw. Zeit-Online) und führen in diesem Podcast so lange das Interview, bis der Gast beschließt, dass nun alles gesagt sei. Die beiden unterbrechen die Gäste, wechseln inmitten einer spannenden Diskussion das Thema (meist: Richtung Essen oder Trinken), es wird ins Mikro gekaut, ... Trotzdem kommt ein wahnsinnig spannendes Gespräch raus, bei dem man am Ende die Interviewten eigentlich immer mehr schätzt als zuvor. </li>
@@ -28,21 +28,21 @@ Diese (sehr vergängliche) Liste (Stand: 17.01.2023) ist für alle, die neu in d
     </ul>
 </details>
 <details>
-    <summary><a href="https://www.harrypottersacredtext.com/">Harry Potter and the Sacred Text</a></summary>
+    <summary>Harry Potter and the Sacred Text</summary>
     <ul>
-        <li><i>Literatur-/Lebenspodcast // Staffel 1: 100% der Folgen, Staffel 2: 0% // überall, wo es Podcasts gibt</i></li>
+        <li><i>Literatur-/Lebenspodcast // Staffel 1: 100% der Folgen, Staffel 2: 0% // überall, wo es Podcasts gibt // <a href="https://www.harrypottersacredtext.com/">Website</a></i></li>
         <li>Bei HPATST beziehen sich Staffeln auf einen Durchlauf durch alle Harry Potter-Bücher, pro Folge ein einziges Kapitel. Als Harry Potter-Fan, aber nicht -Versessener war mir daher eine Staffel genug. Das Konzept ist meiner Meinung nach aber genial und ein schöner Kontrast zu meinem sonstigen Input: Jede Woche nehmen sich Vanessa und Casper (in Staffel 2 ersetzt mit Matt) ein Kapitel Harry Potter vor, behandeln den Text wie in einer "Bible study" als wäre er "sacred", wenden verschiedene "sacred reading practices" an, mit denen Mönche, Nonnen und Rabbiner schon jahrhundertelang versucht haben, ihrer jeweiligen heiligen Schrift näher zu kommen, ziehen Lehren und Schlüsse für sich und ihr Leben. Überraschung: das ist auch als Zuhörer extrem lehrreich und unterhaltsam. Die beiden sind einfach goldige Menschen und in so vielerlei Hinsicht "relatable" und gleichzeitig großartige Vorbilder.</li>
     </ul>
 </details>
 <details>
-    <summary><a href="https://www.doppelgaenger.io/">Doppelgänger Tech Talk</a></summary>
+    <summary>Doppelgänger Tech Talk</summary>
     <ul>
-        <li><i>Laberpodcast (Digital- und Wirtschaftswelt) // seit 2022: 100% der Folgen // überall, wo es Podcasts gibt</i></li>
+        <li><i>Laberpodcast (Digital- und Wirtschaftswelt) // seit 2022: 100% der Folgen // überall, wo es Podcasts gibt // <a href="https://www.doppelgaenger.io/">Website</a></i></li>
         <li>Die beiden Philipps sind in ihrer Verschiedenenheit (kreativer Seriengründer vs. rationaler Numbers-Cruncher) ein prima Duo. Der Podcast ist lehrreich und hat mich damit aus einer profesionellen Perspektive auf jeden Fall weitergebracht, ist aber auch einfach sehr unterhaltsam, mit klugen Denkanstößen, spannenden Geschichten und Takes zum aktuellen Welt- und Digitalgeschehen und immer wieder einem guten Spruch.</li>
     </ul>
 </details>
 <details>
-    <summary><a href="https://omr.com/de/podcast/">OMR Podcast</a></summary>
+    <summary>OMR Podcast</summary>
     <ul>
         <li><i>Interviewpodcast (Digital- und Wirtschaftswelt) // seit 2022: 50% der Folgen // überall, wo es Podcasts gibt</i></li>
         <li>Nachdem die beiden Doppelgänger den Podcast immer wieder erwähnten, gab ich ihm auch irgendwann die Chance und bin seitdem begeistert von den all den spannenden Menschen und Gründungsgeschichten, die ich bisher "kennengelernt" habe. Die Bandbreite an Gästen ist wirklich groß, und die Interviewführung von Philipp Westermeyer echt angenehm und bewundernswert.</li>
