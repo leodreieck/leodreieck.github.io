@@ -2,6 +2,10 @@
 layout: none
 ---
 User-agent: *
+Disallow: /
+
+User-agent: Googlebot Bingbot Applebot DuckDuckBot
+Allow: /
 Disallow: /ueber
 Disallow: /impressum
 Disallow: /kontakt
