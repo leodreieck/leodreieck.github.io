@@ -41,11 +41,11 @@ Weihnachten steht schon bald vor der Tür, und davor kommt die besinnliche Adven
 - Theater-Resttickets
 
 ### Content
-Digitale Inhalte kann man z.B. super als QR-Code verpacken (mithilfe von QR-Code-Generatoren wie [https://www.qrcode-generator.de/](https://www.qrcode-generator.de/)):
+Digitale Inhalte kann man z.B. super als QR-Code verpacken (mithilfe von [QR-Code-Generatoren](https://www.qrcode-generator.de/){:target="_blank"}):
 - gute Podcastfolge
 - (selbst kuratierte) Spotify-Playlist
 - lustiges/inspirierendes Video
-- Stadtrundgang (vielleicht gibt es das ja auch in deiner Stadt? In Tübingen gab es z.B. [diesen](https://fff.abinsall.com/) von Fridays for Future)
+- Stadtrundgang (vielleicht gibt es das ja auch in deiner Stadt? In Tübingen gab es z.B. einen von Fridays for Future)
 - Rätsel
 - nette/liebevolle Notiz, Spruch, Gedicht, Zitat oder Ähnliches
 - Rezept

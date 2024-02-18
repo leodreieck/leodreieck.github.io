@@ -53,4 +53,4 @@ Im Gespräch mit einer Freundin habe ich neulich gemerkt, dass einerseits einige
 | strg + tab | 1 Browsertab weiter | strg gedrückt halten und tab bei Bedarf mehrmals drücken |
 | str + shift + tab | 1 Browsertab zurück |  |
 
-Natürlich gibt es noch viel mehr Tastaturkürzel; wie immer hoffe ich aber, dass dieser Beitrag ein guter Startpunkt und Inpiration ist. Eine vollständige Liste von Microsoft selbst gibt es übrigens [hier](https://support.microsoft.com/de-de/windows/tastenkombinationen-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec). Wenn ihr noch andere Befehle nützlich findet, freue ich mich wie immer über Feedback über die gängigen [Kanäle](/kontakt/). 
+Natürlich gibt es noch viel mehr Tastaturkürzel; wie immer hoffe ich aber, dass dieser Beitrag ein guter Startpunkt und Inpiration ist. Eine vollständige Liste von Microsoft selbst gibt es übrigens [hier](https://support.microsoft.com/de-de/windows/tastenkombinationen-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec){:target="_blank"}. Wenn ihr noch andere Befehle nützlich findet, freue ich mich wie immer über Feedback über die gängigen [Kanäle](/kontakt/). 

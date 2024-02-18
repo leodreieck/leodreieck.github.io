@@ -13,9 +13,9 @@ Mir wurde (mal wieder) ein Fahrrad geklaut. Eine Geschichte in 5 Akten und 10 Le
 Nachdem mir im September bereits mein altes Fahrrad am Hauptbahnhof geklaut worden war, hatte ich mich für ein neues und solides, aber nicht extrem teures Fahrrad im höheren dreistelligen Bereich entschieden. Außerdem traf ich folgende Sicherheitsvorkehrungen, um einen erneuten Diebstahl zu verhindern oder zumindest abzufedern:
 
 - Hausratversicherung incl. Fahrraddiebstahlschutz
-- [Faltschloss](https://amzn.to/3NZ03Ld)* von Abus
-- [AirTag](https://amzn.to/48Lt6dl)*
-- AirTag-Versteck in Form eines nur mit Spezialschlüssel abzuschraubenden [Flaschenhalters](https://amzn.to/3tCL9Uf)*
+- [Faltschloss](https://amzn.to/3NZ03Ld){:target="_blank"}* von Abus
+- [AirTag](https://amzn.to/48Lt6dl){:target="_blank"}*
+- AirTag-Versteck in Form eines nur mit Spezialschlüssel abzuschraubenden [Flaschenhalters](https://amzn.to/3tCL9Uf){:target="_blank"}*
 - Kein Abstellen des Fahrrads am und um den Hbf
 
 ## Erregendes Moment - Der Diebstahl (Montag)
@@ -59,7 +59,7 @@ Im Laufe der Woche hatte ich vier Mal Kontakt mit der lokalen Polizei:
 <details>
 <summary>Freitagmorgen 😡</summary>
     
-    Ein Freund bringt mich auf die Idee, den AirTag mit der Polizei zu teilen, damit diese ohne mich Bewegungsmuster erkennen kann. Ich rufe noch einmal bei der Polizei an und werde dort mit dem folgenden Satz abgebügelt: "Ja denken Sie, dass wir uns um alle gestohlenen Sachen kümmern können?". Ich bin auf den Erfolg der aufgrund der [rapide ansteigenden Anzahl von Fahrraddiebstählen in der Stadt eingerichteten "Ermittlungsgruppe Fahrradgruppe"](https://essen.polizei.nrw/presse/fahrraddiebstaehle-steigen-rasant-an-polizei-richtet-ermittlungsgruppe-ein-und-informiert) gespannt. Ich hätte erwartet, dass sich diese über so klare Spuren wie in meinem Fall freut. *Anmerkung: Ich bin mir selbstverständlich bewusst, dass auch an der Polizei der Fachkräftemangel nicht spurlos vorbeigeht, und dass es grundsätzlich wichtigere Probleme gibt als mein blödes Fahrrad.*
+    Ein Freund bringt mich auf die Idee, den AirTag mit der Polizei zu teilen, damit diese ohne mich Bewegungsmuster erkennen kann. Ich rufe noch einmal bei der Polizei an und werde dort mit dem folgenden Satz abgebügelt: "Ja denken Sie, dass wir uns um alle gestohlenen Sachen kümmern können?". Ich bin auf den Erfolg der aufgrund der [rapide ansteigenden Anzahl von Fahrraddiebstählen in der Stadt eingerichteten "Ermittlungsgruppe Fahrradgruppe"](https://essen.polizei.nrw/presse/fahrraddiebstaehle-steigen-rasant-an-polizei-richtet-ermittlungsgruppe-ein-und-informiert){:target="_blank"} gespannt. Ich hätte erwartet, dass sich diese über so klare Spuren wie in meinem Fall freut. *Anmerkung: Ich bin mir selbstverständlich bewusst, dass auch an der Polizei der Fachkräftemangel nicht spurlos vorbeigeht, und dass es grundsätzlich wichtigere Probleme gibt als mein blödes Fahrrad.*
 </details>   
 
 ## Retardierendes Moment - Das Fahrrad bewegt sich (Samstag)
@@ -76,17 +76,17 @@ Eigentlich könnte alles gut sein: Mein Fahrrad hat einen neuen Besitzer und ver
 
 Nicht alle meiner Learnings sind bahnbrechend, nicht alle davon sind universell gültig, aber hier kommt mein stichpunktartiges Fazit der letzten Woche:
 
-1. Jura 101: Ein abgeschlossenes (=gegen Diebstahl gesichertes) Fahrrad zu klauen, ist juristisch ein "besonders schwerer Fall des Diebstahls". **Strafmaß: [3 Monate bis 10 Jahre Gefängnis](https://dejure.org/gesetze/StGB/243.html)**. Geht man zu zweit vor, gilt das wohl schon als bandenmäßig, was das [Mindeststrafmaß auf 1 Jahr erhöht](https://dejure.org/gesetze/StGB/244a.html). Da ein Fahrraddiebstahl wohl ein durchschnittliches Vergehen ist, müsste man wohl mit 3-4 Jahren Gefängnis rechnen.
-2. Wieso funktioniert diese Abschreckung nicht? **Die Aufklärungsquoten sind [schrecklich](https://essen.adfc.de/neuigkeit/fahrraddiebstaehle-in-essen-und-muelheim-ruecklaeufig)**. Trotz einer mutmaßlich riesigen Dunkelziffer fiel z.B. die Aufklärungsquote in Essen von 9,56 % in 2016 auf magere **4,07 % in 2020**.
-2. Jura 102: An Gestohlenem kann kein Eigentum erworben werden. Außerdem kann man sich der [Hehlerei](https://dejure.org/gesetze/StGB/259.html) schuldig machen. Daher: Immer einen **Kaufbeleg bei größeren Gebrauchtkäufen** anfordern.
+1. Jura 101: Ein abgeschlossenes (=gegen Diebstahl gesichertes) Fahrrad zu klauen, ist juristisch ein "besonders schwerer Fall des Diebstahls". **Strafmaß: [3 Monate bis 10 Jahre Gefängnis](https://dejure.org/gesetze/StGB/243.html){:target="_blank"}**. Geht man zu zweit vor, gilt das wohl schon als bandenmäßig, was das [Mindeststrafmaß auf 1 Jahr erhöht](https://dejure.org/gesetze/StGB/244a.html){:target="_blank"}. Da ein Fahrraddiebstahl wohl ein durchschnittliches Vergehen ist, müsste man wohl mit 3-4 Jahren Gefängnis rechnen.
+2. Wieso funktioniert diese Abschreckung nicht? **Die Aufklärungsquoten sind [schrecklich](https://essen.adfc.de/neuigkeit/fahrraddiebstaehle-in-essen-und-muelheim-ruecklaeufig){:target="_blank"}**. Trotz einer mutmaßlich riesigen Dunkelziffer fiel z.B. die Aufklärungsquote in Essen von 9,56 % in 2016 auf magere **4,07 % in 2020**.
+2. Jura 102: An Gestohlenem kann kein Eigentum erworben werden. Außerdem kann man sich der [Hehlerei](https://dejure.org/gesetze/StGB/259.html){:target="_blank"} schuldig machen. Daher: Immer einen **Kaufbeleg bei größeren Gebrauchtkäufen** anfordern.
 2. Die Kommunikation der Polizei war eine Katastrophe. Ich hatte oft das Gefühl, dass ich **selbst die richtigen Fragen** stellen musste. *Anmerkung: Ich bin mir bewusst, dass ich nicht alle Prozesse im Hintergrund verstehe und dass bei der Polizei wie überall sehr gute und nicht so gute Leute gibt.*
-2. Die **Schlösser von ABUS** sind (zumindest bis zu einem Sicherheitslevel 10/15) zwar schön anzuschauen, aber **halten im Zweifel nicht viel aus**. Mein nächstes wird ein [Kryptonite](https://amzn.to/3NTo5re)*.
+2. Die **Schlösser von ABUS** sind (zumindest bis zu einem Sicherheitslevel 10/15) zwar schön anzuschauen, aber **halten im Zweifel nicht viel aus**. Mein nächstes wird ein [Kryptonite](https://amzn.to/3NTo5re){:target="_blank"}*.
 2. **AirTags sind nur sehr bedingt für den Diebstahlschutz geeignet**
     - Die Ortung des AirTags ist überraschend ungenau, wenn man nicht selbst direkt daneben steht.
     - Die Polizei interessierte das AirTag nicht. Man muss davon ausgehen, dass man selbst den Gegenstand verfolgen muss und neben dem bimmelnden AirTag stehen muss, damit die Polizei etwas machen kann. Für mich selbst war es eher frustrierend als erleichternd zu wissen, wo sich das Fahrrad befand.
     - Anti-Stalking-Maßnahmen weisen aufmerksame Dieb:innen auf das AirTag hin.
     - Passendes Zitat hierzu aus einem Internetforum: "Ohne AirTag wird dir ein Fahrrad geklaut. Mit AirTag wird dir ein Fahrrad und ein AirTag geklaut."
-2. Wenn man unbedingt ein **AirTag am Fahrrad** anbringen möchte, kann ich die Stelle **im** [**Flaschenhalter**](https://amzn.to/3tCL9Uf)* wirklich empfehlen! Vielleicht hatte ich es mit Amateuren zu tun, aber der AirTag wurde eine ganze Woche lang nicht entdeckt bzwy. entfernt.
+2. Wenn man unbedingt ein **AirTag am Fahrrad** anbringen möchte, kann ich die Stelle **im** [**Flaschenhalter**](https://amzn.to/3tCL9Uf){:target="_blank"}* wirklich empfehlen! Vielleicht hatte ich es mit Amateuren zu tun, aber der AirTag wurde eine ganze Woche lang nicht entdeckt bzwy. entfernt.
 
 
 

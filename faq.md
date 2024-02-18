@@ -16,11 +16,11 @@ Antwort
 <details>
 <summary><b> Wie hast du diese Webseite erstellt? Worüber läuft sie? </b></summary>
 <p style="text-align: justify">
-Die Langfassung gibt es <a href="/2022/11/16/eigene-website.html">hier</a>, aber in der Kurzfassung: 
+Die Langfassung gibt es <a href="/2022/11/16/eigene-website.html" target="_blank">hier</a>, aber in der Kurzfassung: 
 <ul>
-<li> Die Erstellung der Seite selbst wird vereinfacht durch den Static-Website-Generator <a href="https://jekyllrb.com/">Jekyll</a></li>
-<li> Gehostet wird sie über <a href="https://pages.github.com/">GitHub Pages</a></li>
-<li> Für Planung und Vorbereitung nutze ich <a href="https://notion.so/">Notion</a></li>
+<li> Die Erstellung der Seite selbst wird vereinfacht durch den Static-Website-Generator <a href="https://jekyllrb.com/" target="_blank">Jekyll</a></li>
+<li> Gehostet wird sie über <a href="https://pages.github.com/" target="_blank">GitHub Pages</a></li>
+<li> Für Planung und Vorbereitung nutze ich <a href="https://notion.so/" target="_blank">Notion</a></li>
 </ul>
 </p>
 </details>
@@ -35,7 +35,7 @@ Nein, nicht wirklich. Aber ich hatte diese Idee schon etwas länger und wollte n
 <details>
 <summary><b> Wie kann ich Updates bekommen, sobald etwas auf der Seite passiert?</b></summary>
 <p style="text-align: justify">
-Ich poste über neue Einträge auf meinem <a href="https://twitter.com/leodreieck/">Twitter</a>-Account. Falls du kein Twitter hast, kannst du mir auch eine <a href="mailto:{{site.email}}">E-Mail</a> droppen und ich benachrichtige dich über einen Verteiler.
+Ich poste über neue Einträge auf meinem <a href="https://twitter.com/leodreieck/" target="_blank">Twitter</a>-Account. Falls du kein Twitter hast, kannst du mir auch eine <a href="mailto:{{site.email}}">E-Mail</a> droppen und ich benachrichtige dich über einen Verteiler.
 </p>
 </details>
 
