@@ -10,7 +10,6 @@ Du hast einen Fehler gefunden, einen tollen Tipp für mich oder möchtest einfac
         Leopold Demleitner<br>
         Rebenlaube 4<br>
         45133 Essen
-- Telefon/Signal: {{site.phone}}
 - [E-Mail](mailto:{{site.email}}){:target="_blank"}
 - [Twitter](https://twitter.com/leodreieck/){:target="_blank"}
 - [LinkedIn](https://www.linkedin.com/in/leopold-demleitner/){:target="_blank"}
