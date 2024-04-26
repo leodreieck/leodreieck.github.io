@@ -4,6 +4,7 @@ title:  "Was ich bei einer Rundreise in Andalusien anschauen würde"
 date:   2023-07-22 20:30
 tags: listen reisen spanien
 description: Was würde ich in einer Woche in Andalusien tun?
+permalink: /andalusien
 ---
 
 Während meines Auslandssemesters in Granada habe ich Andalusien kennen-, schätzen und lieben gelernt. Wie würde ich die Region mit dem Wissen, das ich heute habe, in 1-2 Wochen erkunden?

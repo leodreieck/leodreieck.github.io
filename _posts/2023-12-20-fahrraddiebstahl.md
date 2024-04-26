@@ -4,6 +4,7 @@ title:  "Fahrraddiebstahl mit AirTag - meine 7 Learnings"
 date:   2023-12-15 16:30
 tags: howto
 description: Mir wurde ein Fahrrad geklaut. Eine Geschichte in 5 Akten und 10 Learnings über Fahrraddiebstahl, Fahrradschlösser, Aufklärungsquote, Airtags, uvm.
+permalink: /fahrraddiebstahl
 ---
 
 Mir wurde (mal wieder) ein Fahrrad geklaut. Eine Geschichte in 5 Akten und 10 Learnings über Fahrradschlösser, Aufklärungsquote, Airtags, Airtagverstecke, die Polizeiarbeit uvm.

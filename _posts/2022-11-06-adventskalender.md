@@ -3,7 +3,8 @@ layout: post
 title:  "Selbstgebastelter Adventskalender"
 date:   2022-11-06 18:30
 tags: geschenkideen advent weihnachten winter
-description: Zahlreiche Ideen für Türchen eines selbstgebastelten Adventskalenders. 
+description: Zahlreiche Ideen für Türchen eines selbstgebastelten Adventskalenders.
+permalink: /adventskalender
 ---
 
 Weihnachten steht schon bald vor der Tür, und davor kommt die besinnliche Adventszeit mit all ihren Plätzchen, Lebkuchen, Christkindlmärkten und: Adventskalendern. Auch wenn es inzwischen immer mehr Anbieter gibt und man nicht mehr zwangsläufig auf den zuckersüßen Schokokalender zurückgreifen muss, eignet sich ein selbst zusammengestellter Adventskalender prima als besonderes Zeichen der Zuneigung. Ich habe letztes Jahr selbst einen verschenkt und mir dafür viele Gedanken gemacht und viele Ideen gesammelt, die ich in diesem Post zusammenfassen und als Inspiration anbieten möchte. Ich teile die verschiedenen Ideen in vier Kategorien ein: "Kleinigkeiten", "Gutscheine", "Content" und "Für Pärchen".

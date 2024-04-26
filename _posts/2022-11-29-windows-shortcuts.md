@@ -3,7 +3,8 @@ layout: post
 title:  "Meine Lieblings-Windows-Tastaturkürzel"
 date:   2022-11-29 11:30
 tags: listen windows shortcuts zeitsparen
-description: Die Windows-Tastaturkürzel, die ich am liebsten und meisten verwende 
+description: Die Windows-Tastaturkürzel, die ich am liebsten und meisten verwende
+permalink: /shortcuts
 ---
 Im Gespräch mit einer Freundin habe ich neulich gemerkt, dass einerseits einige nützliche Shortcuts nicht bekannt sind und andererseits auch mein eigenes Shortcut-Game etwas eingerostet ist. Deswegen kommt hier eine Auflistung meiner liebsten Tastaturkürzel für Windows. Für MacOS dürften einige gleich sein, einige aber auch unterschiedlich. Ich unterteile in “Allgemein”, “Explorer” und “Browser” und sortiere nicht alphabetisch, sondern lose nach Nützlichkeit.
 

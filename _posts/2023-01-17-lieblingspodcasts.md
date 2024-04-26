@@ -4,6 +4,7 @@ title:  "Meine Lieblingspodcasts"
 date:   2023-01-17 16:30
 tags: listen podcasts
 description: Eine Auflistung und kurze Beschreibung meiner Lieblingspodcasts (aktuell & früher) incl. (z.T.) Lieblingsfolgen zum Reinschnuppern.
+permalink: /lieblingspodcasts
 ---
 
 Diese (sehr vergängliche) Liste (Stand: 17.01.2023) ist für alle, die neu in das Thema Podcasts starten wollen, nach Inspiration für "neue" Podcasts suchen, oder schon immer mal wissen wollten, woher all die Informationen, die ich "in einem Podcast gehört habe", wirklich kommen. Dies sind alles keine Geheimtipps, aber vielleicht ist ja etwas spannendes dabei. Ich habe versucht, jeden Podcast zu Kategorisieren nach Thema, wie wichtig er mir war/ist, und wo er zu hören ist.
