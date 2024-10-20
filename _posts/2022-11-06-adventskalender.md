@@ -40,6 +40,7 @@ Weihnachten steht schon bald vor der Tür, und davor kommt die besinnliche Adven
 - 1x Monat Headspace-Abo
 - Kletterschuh-Leihgebühr in der Boulderhalle
 - Theater-Resttickets
+- Massageöl und Gutschein für eine Massage (mit Massageöl)
 
 ### Content
 Digitale Inhalte kann man z.B. super als QR-Code verpacken (mithilfe von [QR-Code-Generatoren](https://www.qrcode-generator.de/){:target="_blank"}):
@@ -51,8 +52,3 @@ Digitale Inhalte kann man z.B. super als QR-Code verpacken (mithilfe von [QR-Cod
 - nette/liebevolle Notiz, Spruch, Gedicht, Zitat oder Ähnliches
 - Rezept
 - Link zu einer tollen App, Website oder Ähnlichem (ich habe z.B. letztes Jahr, weil die beschenkte Person schon länger einen Einstieg ins Investieren gesucht hat, einen Link zu "Trade Republic" geteilt samt 5€ Startkapital)
-
-### Für Pärchen
-- Gutschein für eine sinnliche Massage (mit Massageöl)
-- sexy Unterwäsche (gibt es für sie und für ihn!)
-- ausgewählte Sextoys oder einen Gutschein dafür

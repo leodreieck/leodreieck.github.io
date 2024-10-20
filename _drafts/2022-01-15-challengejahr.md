@@ -226,7 +226,7 @@ Leo
 
 Die folgenden Ideen haben meine Freund:innen im Rahmen der Abstimmung geliefert. Manche davon sollte man offensichtlich nicht zu Ernst nehmen.
 
-- Jeden Tag ein Foto machen, das Deinen Tag beschreibt
+* Jeden Tag ein Foto machen, das Deinen Tag beschreibt
 - Jeden Tag einer Person schreiben, die Du lange nicht gesehen hast
 - kein Social Media (Ausnahme: Messenger)
 - kein TV/YouTube/Streaming
