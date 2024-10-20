@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "5 ToDos für Sicherheit (nur ein bisschen langweilig)"
-date:   2024-10-15 16:30
+date:   2024-11-15 16:30
 tags: www
-description: Wirklich einfache Tipps für mehr Sicherheit online.
+description: Einfache Tipps für mehr Sicherheit online.
 ---
 
 ## Verwende einen Passwortmanager und dessen Passwort-Generierungs-Funktion
@@ -19,7 +19,6 @@ Einige gut gemeinte, aber schlechte Tipps und "Sicherheitsvorkehrungen" haben da
 - Social Engineering: Oh, einen habe ich noch: Der Nutzer gibt sein Passwort selbst Preis. Klingt doof, aber bei Seiten wie "Wie sicher ist Dein Passwort" oder Social Media-Posts zu "Wie heißt Dein Haustier?" werden manche Menschen wohl nicht argwöhnisch genug. 
 
 Spätestens mit den im Betriebssystem bzw. Browser verbauten Passwortmanagern ist es sehr einfach, sichere Passwörter zu erstellen und speichern zu lassen. Durch das automatische Ausfüllen der Passwörter kann das das sogar ein Sicherheits- und Komfortgewinn sein!
-
 
 
 ### Meine Erfahrungen mit verschiedenen Passwortmanager-Lösungen

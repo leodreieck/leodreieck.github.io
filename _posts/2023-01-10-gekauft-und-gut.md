@@ -8,15 +8,15 @@ description: Eine Auflistung von Produkten, die ich jedes Mal wieder kaufen wür
 
 ## Freizeit
 
-- [Spikeball Pro Kit](https://amzn.to/3SdWaEM){:target="_blank"}* (Orientierung: Ich habe dafür in 01/22 80€ gezahlt)
+- [Spikeball Pro Kit](https://amzn.to/3SdWaEM){:target="_blank"} (Orientierung: Ich habe dafür in 01/22 80€ gezahlt)
+- 
 
 ## Einrichtung
 
-- [Smarte Thermostate von Tado](https://amzn.to/3NXJXBF){:target="_blank"}* (Orientierung: Ich habe in 11/23 für Bridge + 3 Thermostate 210€ gezahlt)
-
-## Haushalt
-
-- [Luftentfeuchter](https://amzn.to/3vvqQbO){:target="_blank"}*
+- [Käsereibe Microblade](TODO)
+- [Happy Po](TODO)
+- [Room in a box](TODO)
+- [Smarte Thermostate von Tado](https://amzn.to/3NXJXBF){:target="_blank"} (Orientierung: Ich habe in 11/23 für Bridge + 3 Thermostate 210€ gezahlt)
 
 
 
