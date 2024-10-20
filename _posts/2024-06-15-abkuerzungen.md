@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Abkürzungen, die mir immer wieder unterkommen"
+title:  "Abkürzungen im WWW"
 date:   2024-06-15 12:00
-tags: listen
-description: Beliebte Abkürzungen aus der Internetwelt, die ich das erste Mal nachschlagen musste.
+tags: listen www
+description: Beliebte Abkürzungen des Internets, die ich das erste Mal nachschlagen musste.
 permalink: /abk
 ---
 
