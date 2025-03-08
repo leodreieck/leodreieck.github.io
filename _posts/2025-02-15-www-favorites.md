@@ -2,7 +2,7 @@
 layout: post
 title:  "[WIP] Die schönen Ecken des Internets"
 date:   2025-02-15 18:41
-tags: www empfehlungen
+tags: www empfehlungen listen
 description: Schöne Ecken des Internets, gepflegt von ehrbaren Idealist:innen und Weltverbesserern
 permalink: /www-favorites
 ---

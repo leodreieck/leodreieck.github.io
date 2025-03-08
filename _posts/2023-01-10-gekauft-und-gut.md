@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gekauft und für gut befunden"
+title:  "[WIP] Gekauft und für gut befunden"
 date:   2023-01-10 16:30
 tags: geschenkideen empfehlungen
 description: Eine Auflistung von Produkten, die ich jedes Mal wieder kaufen würde
