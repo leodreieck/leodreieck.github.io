@@ -39,6 +39,7 @@ Ich poste über neue Einträge auf meinem <a href="https://twitter.com/leodreiec
 </p>
 </details>
 
+
 <!--
 <details>
 <summary><b> Was sind "Affiliate Links"? Und wieso Amazno? </b></summary>
@@ -48,14 +49,12 @@ eig glaube ich nicht an affiliate links weil man nochmal überlegen sollte vor d
 </details>
 -->
 
-<!--
 <details>
 <summary><b> Wow, coole Sache! Wie kann ich das Projekt unterstützen? </b></summary>
 <p style="text-align: justify">
-Operativ ist die Seite ehrlich gesagt gar nicht so teuer: Da ich sie mithilfe des kostenlosen <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>s erstellt habe und kostenlos über <a href="https://docs.github.com/en/pages" target="_blank">GitHub Pages</a> hosten kann, fällt nur eine (eher vernachlässigbare) Jahresgebühr für die Domain an. Aber natürlich brauchen wir alle etwas, das uns antreibt. In meinem Fall sind das häufig Nudeln, und manchmal dunkle Schokolade. Wenn du mich also unterstützen möchtest, nur noch die guten DeCeccho-Nudeln und Vivani-Schokolade zu kaufen, kannst du gerne einen Kleinstbeitrag auf diesem <a href="https://paypal.me/leodreieckpaypal">PayPal-Account</a> hinterlassen. Ich werde die Mittel nicht zweckentfremden - versprochen.
+Operativ ist die Seite ehrlich gesagt gar nicht so teuer: Da ich sie mithilfe des kostenlosen <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>s erstellt habe und kostenlos über <a href="https://docs.github.com/en/pages" target="_blank">GitHub Pages</a> hosten kann, fällt nur eine (eher vernachlässigbare) Jahresgebühr für die Domain an. Aber natürlich brauchen wir alle etwas, das uns antreibt. In meinem Fall sind das häufig Nudeln, und manchmal dunkle Schokolade. Wenn du mich also unterstützen möchtest, nur noch die guten DeCeccho-Nudeln und Vivani-Schokolade zu kaufen, kannst du gerne einen Kleinstbeitrag auf diesem <a href="https://ko-fi.com/leodreieck">Ko-Fi-Account</a> hinterlassen. Ich werde die Mittel nicht zweckentfremden - versprochen. Alternativ kannst Du mal bei <a href="/empfehlungen">meinen Empfehlungen</a> vorbeischauen. Dort sammle ich meine Freunde-Werben-Links von Produkten, die ich gerne nutze. Wenn du über einen meiner Links ein Konto erstellst, bekomme ich eine kleine Prämie.
 </p>
 </details>
--->
 
 
 
