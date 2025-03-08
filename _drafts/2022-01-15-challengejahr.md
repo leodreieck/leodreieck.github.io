@@ -226,30 +226,31 @@ Leo
 
 Die folgenden Ideen haben meine Freund:innen im Rahmen der Abstimmung geliefert. Manche davon sollte man offensichtlich nicht zu Ernst nehmen.
 
-* Jeden Tag ein Foto machen, das Deinen Tag beschreibt
-- Jeden Tag einer Person schreiben, die Du lange nicht gesehen hast
-- kein Social Media (Ausnahme: Messenger)
-- kein TV/YouTube/Streaming
-- Nur kalt Duschen
-- Ohne Decke schlafen
-- Jeden Tag ein Gedicht schreiben
-- Nichts Schlechtes über andere Menschen sagen
-- Jeden Tag 20 Seiten lesen
-- Jeden Tag 20 Liegestütze / 5 Klimmzüge / 3x die Woche laufen gehen o.Ä.
-- Rica täglich eine Postkarte schreiben
-- Jeden Tag 10 Gründe notieren, warum Kiel Deine absolute Lieblingsstadt ist
-- Jeden Tag zwischen 12 und 14 Uhr eine Sonenbrille tragen
-- Jeden Tag den Saft einer ausgepressten Zitrone trinken
-- Einen Tag pro Woche schweigen
-- Jeden Samstag bei der Tafel mithelfen
-- Jeden Tag mindestens 30 Minuten an der frischen Luft sein
-- 2x pro Woche einen Kuchen für Deinen Mitbewohner backen
-- 3x pro Woche mit Tieren aus dem Tierheim spazieren gehen
-- Jeder bedürftigen Person unterwegs 1-2€ geben // keine wirkliche Challenge, sondern ein Augenöffner
-- Jede Woche einen Leserbrief schreiben
-- (Ernsthaft) versuchen, Angela Merkel telefonisch zu erreichen
-- Eine Brieffreundschaft mit einer Person aus dem Altenheim pflegen // ebenfalls keine wirkliche Monatschallenge
-- Jeden Tag ab 16 Uhr eine Sonnenbrille tragen // ich habe bis heute nicht rausgefunden, wer meiner Freund:innen so ein Sonnenbrillenfan ist
-- Jede Woche 1x für eine andere Person kochen
-- Versuchen, einen Spagat zu schaffen
-- Jeden Tag 10 Wörter einer neuen Sprache lernen // Genannt wurde: Gebärdensprache, in Deutschland viel gesprochene Fremdsprache (Polnisch, Türkisch, Arabisch)
+<ul>
+<li> Jeden Tag ein Foto machen, das Deinen Tag beschreibt </li>
+<li> Jeden Tag einer Person schreiben, die Du lange nicht gesehen hast </li>
+<li> kein Social Media (Ausnahme: Messenger) </li>
+<li> kein TV/YouTube/Streaming </li>
+<li> Nur kalt Duschen </li>
+<li> Ohne Decke schlafen </li>
+<li> Jeden Tag ein Gedicht schreiben </li>
+<li> Nichts Schlechtes über andere Menschen sagen </li>
+<li> Jeden Tag 20 Seiten lesen </li>
+<li> Jeden Tag 20 Liegestütze / 5 Klimmzüge / 3x die Woche laufen gehen o.Ä. </li>
+<li> Rica täglich eine Postkarte schreiben </li>
+<li> Jeden Tag 10 Gründe notieren, warum Kiel Deine absolute Lieblingsstadt ist </li>
+<li> Jeden Tag zwischen 12 und 14 Uhr eine Sonenbrille tragen </li>
+<li> Jeden Tag den Saft einer ausgepressten Zitrone trinken </li>
+<li> Einen Tag pro Woche schweigen </li>
+<li> Jeden Samstag bei der Tafel mithelfen </li>
+<li> Jeden Tag mindestens 30 Minuten an der frischen Luft sein </li>
+<li> 2x pro Woche einen Kuchen für Deinen Mitbewohner backen </li>
+<li> 3x pro Woche mit Tieren aus dem Tierheim spazieren gehen </li>
+<li> Jeder bedürftigen Person unterwegs 1-2€ geben // keine wirkliche Challenge, sondern ein Augenöffner </li>
+<li> Jede Woche einen Leserbrief schreiben </li>
+<li> (Ernsthaft) versuchen, Angela Merkel telefonisch zu erreichen </li>
+<li> Eine Brieffreundschaft mit einer Person aus dem Altenheim pflegen // ebenfalls keine wirkliche Monatschallenge </li>
+<li> Jeden Tag ab 16 Uhr eine Sonnenbrille tragen // ich habe bis heute nicht rausgefunden, wer meiner Freund:innen so ein Sonnenbrillenfan ist </li>
+<li> Jede Woche 1x für eine andere Person kochen </li>
+<li> Versuchen, einen Spagat zu schaffen </li>
+<li> Jeden Tag 10 Wörter einer neuen Sprache lernen // Genannt wurde: Gebärdensprache, in Deutschland viel gesprochene Fremdsprache (Polnisch, Türkisch, Arabisch) </li>
