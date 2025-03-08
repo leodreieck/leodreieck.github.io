@@ -4,6 +4,7 @@ title:  "[WIP] Wikipedia-Must-Reads"
 date:   2024-11-15 16:30
 tags: www learning
 description: Spannende Wikipedia-Seiten, auf die ich im Laufe der Jahre gestoßen bin und die ich nicht vergessen möchte
+permalink: /wikipedia
 ---
 
 Es folgt eine Liste von spannenden Wikipedia-Artikeln, auf die ich im Laufe der Jahre gestoßen bin und die ich selbst nicht vergessen und weiterempfehlen möchte!

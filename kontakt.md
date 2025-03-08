@@ -11,7 +11,7 @@ Du hast einen Fehler gefunden, einen tollen Tipp für mich oder möchtest einfac
         Rebenlaube 4<br>
         45133 Essen
 - [E-Mail](mailto:{{site.email}}){:target="_blank"}
-- [Twitter](https://twitter.com/leodreieck/){:target="_blank"}
+- [BlueSky](https://bsky.app/profile/leodreieck.bsky.social){:target="_blank"}
 - [LinkedIn](https://www.linkedin.com/in/leopold-demleitner/){:target="_blank"}
 
 Ich freue mich, von dir zu hören!

@@ -9,7 +9,6 @@ description: Eine Auflistung von Produkten, die ich jedes Mal wieder kaufen wür
 ## Freizeit
 
 - [Spikeball Pro Kit](https://amzn.to/3SdWaEM){:target="_blank"} (Orientierung: Ich habe dafür in 01/22 80€ gezahlt)
-- 
 
 ## Einrichtung
 
