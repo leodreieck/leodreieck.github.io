@@ -28,6 +28,11 @@ body {
   flex-direction: column;
 }
 
+::selection {
+  background: #ff7f50;
+  color: #111;
+}
+
 
 
 /**
