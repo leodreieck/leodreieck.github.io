@@ -20,6 +20,7 @@ Ich dachte immer, ich kenne die meisten Internetabkürzungen. Schließlich nutze
 | iirc      | if i recall correctly |
 | ikwym     | i know what you mean |
 | irl       | in real life |
+| iykyk     | if you know you know |
 | LGTM      | Looks Good To Me |
 | lmkwyt    | let me know what you think |
 | ngl       | not gonna lie |
