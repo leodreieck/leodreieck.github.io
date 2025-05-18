@@ -16,3 +16,5 @@ permalink: /www-favorites
 - [socher.org](https://www.socher.org){:target="_blank"}, die persönliche Website des You.com-Gründers Richard Socher, einem erfolgreichen deutschen KI-Unternehmer
 - [patrickcollison.com](https://patrickcollison.com/about){:target="_blank"}, die persönliche Website des Stripe-Mitgründers Patrick Collison
 - [ben-evans.com](https://www.ben-evans.com){:target="_blank"}, der Blog meines Lieblings-Tech-Analysten, der humorvoll und intelligent über die Tech-Welt und seine quirky Outside Interests schreibt
+- [Ping Pong Map](https://pingpongmap.net){:target="_blank"}: Finde die nächste öffentliche Tischtennisplatte
+- [Every Noise](https://everynoise.com){:target="_blank"}: Alle Spotify-Musikrichtungen auf einer interaktiven Karte
