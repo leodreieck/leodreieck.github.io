@@ -19,7 +19,7 @@ Du kannst übrigens nun auch diesem Blog per Newsletter folgen, damit Du als ers
 - [Entwickler und AI-Adopter Simon Willison](https://simonw.substack.com){:target="_blank"}: Für mich zum Teil etwas arg technisch, aber Simon experimentiert viel mit KI und schreibt dann unaufgeregt und interessant darüber. Für mich ein inspirierender Read!
 - [George Mack a.k.a. The Ad Professor](https://www.adprofessor.com/newsletter){:target="_blank"}: Einmal die Woche ein paar lustige oder interessante und oft aktuelle Werbungen.
 - [The Pragmatic Engineer von Gergely Orosz](https://newsletter.pragmaticengineer.com){:target="_blank"}: Auch dieser Newsletter ist sehr technisch und für mich zu viel Content. Trotzdem gibt es immer wieder spannende Posts, für die ich gerne Abonnierer bin. 
-- [xkcd](https://xkcd.com){:target="_blank"}: Die lebende Legende Randall Munroe versendet 2x die Woche seine Banger-Comics auch per Mail. Ein Post mit meinen Lieblings-xkcd-Comics ist bereits in Planung.
+- [xkcd](https://xkcd.com){:target="_blank"}: Die lebende Legende Randall Munroe versendet 2x die Woche seine Banger-Comics auch per Mail. Ein Post mit meinen Lieblings-xkcd-Comics findest du <a href="/xkcd">hier</a>.
 <!--- [Spicy News mit Aella](https://aella.substack.com){:target="_blank"}: [iykyk](/abk){:target="_blank"}-->
 
 Mir ist bekannt, dass Substack versucht, Posts wie diese unnötig zu machen. Ich habe [einen Account](https://substack.com/@leodreieck){:target="_blank"} dort, aber finde die Anwendung total nutzerunfreundlich.
