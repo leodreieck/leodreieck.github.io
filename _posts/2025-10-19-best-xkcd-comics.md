@@ -18,7 +18,7 @@ Randall Munroe hat mit [xkcd](https://xkcd.com){:target="_blank"} eine der schö
     <img src="https://imgs.xkcd.com/comics/git.png">
   </a>
   <figcaption>
-    xkcd #1597 — The famous git explanation (via <a href="https://xkcd.com/1597/" target="_blank">xkcd.com</a>)
+    xkcd #1597 — Die berühmte git Erklärung (via <a href="https://xkcd.com/1597/" target="_blank">xkcd.com</a>)
   </figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ Randall Munroe hat mit [xkcd](https://xkcd.com){:target="_blank"} eine der schö
     <img src="https://imgs.xkcd.com/comics/security.png">
   </a>
   <figcaption>
-    xkcd #538 — The problem with "safe" encryption, which turned out to be <a href="https://www.theguardian.com/us-news/2025/may/24/crypto-investor-tortue-kidnapping-new-york" target="_blank">prophetic</a> (via <a href="https://xkcd.com/538" target="_blank">xkcd.com</a>)
+    xkcd #538 — Die Probleme der Kryptografie, was sich dieses Jahr als <a href="https://www.theguardian.com/us-news/2025/may/24/crypto-investor-tortue-kidnapping-new-york" target="_blank">prophetisch</a> herausstellte (via <a href="https://xkcd.com/538" target="_blank">xkcd.com</a>)
   </figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Randall Munroe hat mit [xkcd](https://xkcd.com){:target="_blank"} eine der schö
     <img src="https://imgs.xkcd.com/comics/how_it_works.png">
   </a>
   <figcaption>
-    xkcd #385 — How discrimination works (via <a href="https://xkcd.com/385" target="_blank">xkcd.com</a>)
+    xkcd #385 — Wie Diskriminierung aussieht (via <a href="https://xkcd.com/385" target="_blank">xkcd.com</a>)
   </figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ Randall Munroe hat mit [xkcd](https://xkcd.com){:target="_blank"} eine der schö
     <img src="https://imgs.xkcd.com/comics/dating_pools.png">
   </a>
   <figcaption>
-    xkcd #314 — Dating pool sizes across the years (via <a href="https://xkcd.com/314" target="_blank">xkcd.com</a>)
+    xkcd #314 — Dating pool-Größen mit dem Alter (via <a href="https://xkcd.com/314" target="_blank">xkcd.com</a>)
   </figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ Randall Munroe hat mit [xkcd](https://xkcd.com){:target="_blank"} eine der schö
     <img src="https://imgs.xkcd.com/comics/tech_support_cheat_sheet.png">
   </a>
   <figcaption>
-    xkcd #627 — Tech support cheat sheet (getting ready for christmas...) (via <a href="https://xkcd.com/627" target="_blank">xkcd.com</a>)
+    xkcd #627 — Tech support cheat sheet (Bald ist Weihnachten ;) (via <a href="https://xkcd.com/627" target="_blank">xkcd.com</a>)
   </figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Randall Munroe hat mit [xkcd](https://xkcd.com){:target="_blank"} eine der schö
     <img src="https://imgs.xkcd.com/comics/wisdom_of_the_ancients.png">
   </a>
   <figcaption>
-    xkcd #979 — For all those old enough to remember Stack Overflow (via <a href="https://xkcd.com/979" target="_blank">xkcd.com</a>)
+    xkcd #979 — Für alle, die alt genug sind, sich an Stack Overflow zu erinnern (via <a href="https://xkcd.com/979" target="_blank">xkcd.com</a>)
   </figcaption>
 </figure>
 
@@ -126,7 +126,7 @@ Randall Munroe hat mit [xkcd](https://xkcd.com){:target="_blank"} eine der schö
     <img src="https://imgs.xkcd.com/comics/convincing.png">
   </a>
   <figcaption>
-    xkcd #833 — Labeling axes (via <a href="https://xkcd.com/833" target="_blank">xkcd.com</a>)
+    xkcd #833 — Achsenbeschriftungen (via <a href="https://xkcd.com/833" target="_blank">xkcd.com</a>)
   </figcaption>
 </figure>
 
